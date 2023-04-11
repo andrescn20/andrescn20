@@ -1,10 +1,42 @@
-### Hello there :muscle:	
+#### Hello there :muscle:	
 
 Im a former Mechanical Engineer and Professor making my way through tech as a web developer. Im passionate about education and creating with purpose. 
 - :hammer_and_wrench:	Currently working on and Educational App: [Project Newton](projectnewton.andrescn20.com)
 
+### Frameworks and Tools
 
-<code><img height="150px" src="https://github-readme-stats.vercel.app/api?username=andrescn20&show_icons=true&theme=dark"/></code> | <code><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescn20&layout=compact&theme=dark"/></code>
+<table>
+    <tbody>
+        <tr>
+          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></td>
+          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /></td>
+          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></td>
+          <td><img height=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /></td>
+          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /></td>
+          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></td>
+        </tr>
+      <tr>
+          <td><img height=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
+          <td><img height=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></td>
+          <td><img height=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></td>
+          <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></td>
+          <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+### My Stats:
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=andrescn20&show_icons=true&theme=dark"/> | <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescn20&layout=compact&theme=dark"/>
+
 
 <!--
 **andrescn20/andrescn20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
