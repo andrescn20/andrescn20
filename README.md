@@ -1,5 +1,13 @@
 ### Hello there :muscle:	
 
+Im a former Mechanical Engineer and Professor making my way through tech as a web developer. Im passionate about education and creating with purpose. 
+- :hammer_and_wrench:	Currently working on and Educational App: [Project Newton](projectnewton.andrescn20.com)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=andrescn20&show_icons=true&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescn20&layout=compact"/>
+
 <!--
 **andrescn20/andrescn20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
