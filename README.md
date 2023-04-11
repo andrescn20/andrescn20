@@ -10,6 +10,14 @@ Im a former Mechanical Engineer and University Professor making my way in tech a
 <table>
     <tbody>
         <tr><th colspan="6"> Frameworks</th></tr>
+<!--         <tr>
+            <th height=20> ReactJS</th>
+            <th> VueJS</th>
+            <th> TailwindCSS</th>
+            <th> ReactJS</th>
+            <th> ReactJS</th>
+            <th> ReactJS</th>
+        </tr> -->
         <tr>
           <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></td>
           <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /></td>
