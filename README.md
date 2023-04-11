@@ -7,6 +7,7 @@ Im a former Mechanical Engineer and Professor making my way through tech as a we
 
 <table>
     <tbody>
+        <tr><th colspan="6"> Frameworks</th></tr>
         <tr>
           <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></td>
           <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /></td>
@@ -15,12 +16,22 @@ Im a former Mechanical Engineer and Professor making my way through tech as a we
           <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /></td>
           <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></td>
         </tr>
-      <tr>
+        <tr><th colspan="6"> Languages</th></tr>
+        <tr>
           <td><img height=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
           <td><img height=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></td>
           <td><img height=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></td>
-          <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></td>
-          <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></td>
+          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
+          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></td>
+          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></td>
+        </tr>
+        <tr><th colspan="6">Other Stuff</th></tr>
+        <tr>
+            <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
+            <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
+            <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></td>
+            <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></td>
+            <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></td>
         </tr>
     </tbody>
 </table>
