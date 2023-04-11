@@ -1,7 +1,8 @@
 #### Hello there :muscle:	
 
-Im a former Mechanical Engineer and Professor making my way through tech as a web developer. Im passionate about education and creating with purpose. 
+Im a former Mechanical Engineer and Professor making my way in tech as a **Web Developer**. Im passionate about education and creating with purpose. Based in Costa Rica:costa_rica:
 - :hammer_and_wrench:	Currently working on and Educational App: [Project Newton](projectnewton.andrescn20.com)
+- :bookmark_tabs: Take a look at my [Portfolio](andrescn20.com)
 
 ### Frameworks and Tools
 
@@ -36,17 +37,8 @@ Im a former Mechanical Engineer and Professor making my way through tech as a we
     </tbody>
 </table>
 
-
-
-
-
-
-
-
-
-
 ### My Stats:
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=andrescn20&show_icons=true&theme=dark"/> | <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescn20&layout=compact&theme=dark"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=andrescn20&show_icons=true"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescn20&layout=compact"/>
 
 
 <!--
