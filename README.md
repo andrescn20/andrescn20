@@ -1,6 +1,7 @@
 #### Hello there :muscle:	
 
-Im a former Mechanical Engineer and Professor making my way in tech as a **Web Developer**. Im passionate about education and creating with purpose. Based in Costa Rica:costa_rica:
+Im a former Mechanical Engineer and University Professor making my way in tech as a **Web Developer**. Im passionate about education and creating with purpose. Based in Costa Rica:costa_rica:
+
 - :hammer_and_wrench:	Currently working on and Educational App: [Project Newton](projectnewton.andrescn20.com)
 - :bookmark_tabs: Take a look at my [Portfolio](andrescn20.com)
 
