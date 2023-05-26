@@ -2,7 +2,7 @@
 
 Im a Mechanical Engineering, Web Developer and University Professor. Im passionate about education and creating with purpose. Based in Costa Rica:costa_rica:
 
-- :book: Programming Profesor at [Cenfotec](https://ucenfotec.ac.cr/)
+- :book: Programming Professor at [Cenfotec](https://ucenfotec.ac.cr/)
 - :hammer_and_wrench:	Currently working on and Educational App: [Project Newton](https://projectnewton.andrescn20.com/)
 - :bookmark_tabs: Take a look at my [Portfolio](https://www.andrescn20.com/)
 
