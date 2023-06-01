@@ -1,6 +1,6 @@
 #### Hello there :muscle:	
 
-Im a Mechanical Engineering, Web Developer and University Professor. Im passionate about education and creating with purpose. Based in Costa Rica:costa_rica:
+Im a Mechanical Engineer, Web Developer and University Professor. Im passionate about education and creating with purpose. Based in Costa Rica:costa_rica:
 
 - :book: Programming Professor at [Cenfotec](https://ucenfotec.ac.cr/)
 - :hammer_and_wrench:	Currently working on and Educational App: [Project Newton](https://projectnewton.andrescn20.com/)
