@@ -1,51 +1,8 @@
 #### Hello there :muscle:	
 
-Im a Mechanical Engineer, Web Developer and University Professor. Im passionate about education and creating with purpose. Based in Costa Rica:costa_rica:
-
-- :book: Programming Professor at [Cenfotec](https://ucenfotec.ac.cr/)
-- :hammer_and_wrench:	Currently working on and Educational App: [Project Newton](https://projectnewton.andrescn20.com/)
-- :bookmark_tabs: Take a look at my [Portfolio](https://www.andrescn20.com/)
+Im Software Engineer and Mechanical Engineer. Just finished a Software Engineering internship at Microsoft and currently work as a University Professor, teaching Full Stack Development with .NET and React. Im passionate about education and creating with purpose. Currently learning more about Robotics and IoT. Based in Costa Rica:costa_rica:
 
 ### Frameworks and Tools
-
-<table>
-    <tbody>
-        <tr><th colspan="6"> Frameworks</th></tr>
-<!--         <tr>
-            <th height=20> ReactJS</th>
-            <th> VueJS</th>
-            <th> TailwindCSS</th>
-            <th> ReactJS</th>
-            <th> ReactJS</th>
-            <th> ReactJS</th>
-        </tr> -->
-        <tr>
-          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></td>
-          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /></td>
-          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /></td>
-          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></td>
-          <td><img height=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /></td>
-          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /></td>
-        </tr>
-        <tr><th colspan="6"> Languages</th></tr>
-        <tr>
-          <td><img height=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
-          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
-          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></td>
-          <td><img height=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></td>
-          <td><img height=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></td>
-          <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></td>
-        </tr>
-        <tr><th colspan="6">Other Stuff</th></tr>
-        <tr>
-            <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
-            <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
-            <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></td>
-            <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></td>
-            <td><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></td>
-        </tr>
-    </tbody>
-</table>
 
 ### My Stats:
 <!--<img height="150px" src="https://github-readme-stats.vercel.app/api?username=andrescn20&show_icons=true"/> -->
