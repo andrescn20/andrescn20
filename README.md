@@ -1,6 +1,6 @@
 #### Hello there :muscle:	
 
-Im Software Engineer and Mechanical Engineer. Just finished a Software Engineering internship at Microsoft and currently work as a University Professor, teaching Full Stack Development with .NET and React. Im passionate about education and creating with purpose. Currently learning more about Robotics and IoT. Based in Costa Rica:costa_rica:
+Im Software Engineer and Mechanical Engineer. Just finished a Software Engineering internship at Microsoft and currently work as a University Professor, teaching Full Stack Development with .NET and React. Im passionate about education and creating with purpose. Currently learning more about Robotics and IoT. Based in Costa Rica :costa_rica:
 
 ### Frameworks and Tools
 
