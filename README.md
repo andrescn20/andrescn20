@@ -2,8 +2,6 @@
 
 Im Software Engineer and Mechanical Engineer. Just finished a Software Engineering internship at Microsoft and currently work as a University Professor, teaching Full Stack Development with .NET and React. Im passionate about education and creating with purpose. Currently learning more about Robotics and IoT. Based in Costa Rica :costa_rica:
 
-### Frameworks and Tools
-
 ### My Stats:
 <!--<img height="150px" src="https://github-readme-stats.vercel.app/api?username=andrescn20&show_icons=true"/> -->
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescn20&layout=compact"/>
