@@ -5,7 +5,7 @@ Im a Software Engineer and Mechanical Engineer. Currently working as Software En
 You can reach me at andrescn20@gmail.com. 
 
 ### My Stats:
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=andrescn20&show_icons=true"/>
+<!--<img height="150px" src="https://github-readme-stats.vercel.app/api?username=andrescn20&show_icons=true"/>-->
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescn20&layout=compact"/>
 
 <!--
