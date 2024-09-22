@@ -1,11 +1,12 @@
 #### Hello there :muscle:	
 
-Im Software Engineer and Mechanical Engineer. Just finished a Software Engineering internship at Microsoft and currently work as a University Professor, teaching Full Stack Development with .NET and React. Im passionate about education and creating with purpose. Currently learning more about Robotics and IoT. Based in Costa Rica :costa_rica:
+Im a Software Engineer and Mechanical Engineer. Currently working as Software Engineer at Microsoft and as Software Engineering and Robotics Professor at Cenfotec University, Costa Rica. I am passionate about creating with purpose, wether its through software, hardware, or both. Always looking for fun proyects that help me learn and grow both personally and professionaly. 
+
+You can reach me at andrescn20@gmail.com. 
 
 ### My Stats:
-<!--<img height="150px" src="https://github-readme-stats.vercel.app/api?username=andrescn20&show_icons=true"/> -->
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=andrescn20&show_icons=true"/>
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrescn20&layout=compact"/>
-
 
 <!--
 **andrescn20/andrescn20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
