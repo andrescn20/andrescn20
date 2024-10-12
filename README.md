@@ -5,9 +5,9 @@ Im a Software Engineer and Mechanical Engineer. Currently working as Software En
 You can reach me at andrescn20@gmail.com. 
 
 ### My Stats:
-![andrescn20's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrescn20&theme=radical&show_icons=true&hide_border=false&layout=compact)
-![andrescn20's Stats](https://github-readme-stats.vercel.app/api?username=andrescn20&theme=radical&show_icons=true&hide_border=false&count_private=false)
-![andrescn20's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrescn20&theme=radical&hide_border=false)
+<!-- ![andrescn20's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrescn20&theme=radical&hide_border=false) <br> -->
+![andrescn20's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrescn20&theme=radical&show_icons=true&hide_border=false&layout=compact) <br>
+![andrescn20's Stats](https://github-readme-stats.vercel.app/api?username=andrescn20&theme=radical&show_icons=true&hide_border=false&count_private=false) <br>
 
 
 <!--
